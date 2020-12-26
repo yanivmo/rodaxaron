@@ -17,7 +17,8 @@ title: roda-xaron
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Capoeira Cordão de Ouro
-baseurl: "" # the subpath of your site, e.g. /blog
+permalink: ":title/"
+baseurl: "/rodaxaron" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
 
