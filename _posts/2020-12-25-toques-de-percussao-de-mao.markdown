@@ -28,3 +28,17 @@ Cado compasso contém uma tercina.
 |O-S|S-O|O-S|S-O|
 ```
 
+# Samba
+
+```
+ ₁... ₂... ₃... ₄...
+|O--O|O--O|O--O|O--O|
+ ₁... ₂... ₃... ₄...
+|O--S|O--O|O--S|OOOO|
+```
+
+As variações na quarto compasso:
+
+1. `S|OOOO|O`
+1. `S|POOO|O`
+1. `S|OO-O|O`
