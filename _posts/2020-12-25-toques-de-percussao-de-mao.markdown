@@ -39,6 +39,9 @@ Cado compasso contém uma tercina.
 
 As variações na quarto compasso:
 
-1. `S|OOOO|O`
-1. `S|POOO|O`
-1. `S|OO-O|O`
+```
+    ₁... ₂... ₃... ₄...
+1: |O--S|O--O|O--S|OOOO|
+2: |O--S|O--O|O--S|POOO|
+3: |O--S|O--O|O--S|OO-O|
+```
