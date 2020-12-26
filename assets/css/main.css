@@ -15,6 +15,11 @@ html {
   /* 2 */
 }
 
+@font-face {
+  font-family: "DejaVu Sans Mono";
+  src: url("../fonts/DejaVuSansMono.ttf");
+}
+
 /* Sections
    ========================================================================== */
 /**
@@ -84,7 +89,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  font-family: "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -140,7 +145,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  font-family: "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
   /* 1 */
   font-size: 1em;
   /* 2 */
