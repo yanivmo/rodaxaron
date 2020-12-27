@@ -9,10 +9,18 @@ Os principais estilos de percussão brasilero de mão.
 
 # Ijexa
 
+O toque basico:
 ```
  ₁... ₂... ₃... ₄...
 |Ṣ---|Ṣ-O-|Ṣ---|Ṣ-O-|
+```
 
+O toque com síncopa:
+```
+ ₁... ₂... ₃... ₄...
+|O---|O---|O-O-|O---|
+|-O--|O--O|O-O-|O---|
+|SS--|--OO|O-O-|O---|
 ```
 
 
