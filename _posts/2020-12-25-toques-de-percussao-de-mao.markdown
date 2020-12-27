@@ -3,7 +3,7 @@ layout: post
 title:  "Toques de percussão brasilero de mão"
 date:   2020-12-25 22:46:26 +0200
 categories: jekyll update
-img: drum-person-thumping-the-round-brown-and-beige-drum-percussion-percussion-image.jpg
+img: conga.jpg
 ---
 Os principais estilos de percussão brasilero de mão.
 
