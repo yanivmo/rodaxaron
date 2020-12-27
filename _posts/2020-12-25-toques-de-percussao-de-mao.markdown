@@ -35,13 +35,15 @@ Cado compasso contém uma tercina.
 |O--O|O--O|O--O|O--O|
  ₁... ₂... ₃... ₄...
 |O--S|O--O|O--S|OOOO|
+ ₁... ₂... ₃... ₄...
+|OS-S|O--O|O--S|OOOO|
 ```
 
 As variações na quarto compasso:
 
 ```
     ₁... ₂... ₃... ₄...
-1: |O--S|O--O|O--S|OOOO|
-2: |O--S|O--O|O--S|POOO|
-3: |O--S|O--O|O--S|OO-O|
+1: |OS-S|O--O|O--S|OOOO|
+2: |OS-S|O--O|O--S|POOO|
+3: |OS-S|O--O|O--S|OO-O|
 ```
