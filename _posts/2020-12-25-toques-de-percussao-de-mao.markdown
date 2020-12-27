@@ -23,6 +23,12 @@ O toque com síncopa:
 |SS--|--OO|O-O-|O---|
 ```
 
+### Análise da dinâmica
+
+{{site.baseurl}}/assets/audio/ijexa.mp3
+
+![Ijexa com dois tambores]({{site.baseurl}}/assets/img/ijexa.png)
+
 
 # Barravento
 
